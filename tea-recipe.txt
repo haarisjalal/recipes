@@ -1,0 +1,7 @@
+Ingredients:
+	- Water
+	- Tea Leaves
+	- Sugar (as required)
+
+Method:
+	-grind the tea leaves. Boil them. Pour hot water. Serve.
